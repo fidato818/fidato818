@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Adnan Ahmed!
 
+Web & Mobile App Developer From Karachi, Pakistan. Frontend Web and Mobile Developer JavaScript | ReactJs | React Native | Expo | Material UI | Bootstrap4 | HTML5 & CSS3 | PWA | Materialize CSS
 <!--
 **fidato818/fidato818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
