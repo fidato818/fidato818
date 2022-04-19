@@ -7,9 +7,9 @@ Front End Developer | React & React Native
 Web & Mobile App Developer. Frontend Web and Mobile Developer JavaScript | ReactJs | React Native | Expo | Material UI | Bootstrap5 | HTML5 & CSS3 | PWA | Materialize CSS
 
 * 🌍  I'm based in Karachi, Pakistan
-* 🖥️  See my portfolio at [My Portfolio](http://eight-1-eight,web,app)
+* 🖥️  See my portfolio at [My Portfolio](https://eight-1-eight.web.app)
 * ✉️  You can contact me at [adnanahmed818@gmail.com](mailto:adnanahmed818@gmail.com)
-* 🚀  I'm currently working on [Liaquat National Hospital](http://Liaquat National Hospital)
+* 🚀  I'm currently working on [Liaquat National Hospital](https://www.lnh.edu.pk)
 * 🧠  I'm learning Nextjs, Tailwind CSS, Functional Programming (React Hooks)
 * 🤝  I'm open to collaborating on React, React Native, Material UI, Firebase, Javascript
 
@@ -36,6 +36,7 @@ Web & Mobile App Developer. Frontend Web and Mobile Developer JavaScript | React
 
 <p align="left"> <a href="https://www.facebook.com/millions818/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/fidato818" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/adnan_ahmed818/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adnan-ahmed818/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/adnanahmed_818" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+### Badges
 
 <b>My GitHub Stats</b>
 
