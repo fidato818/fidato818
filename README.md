@@ -1,17 +1,17 @@
 Hi 👋 My name is Adnan Ahmed
 ============================
 
-Front End Developer | React & React Native
+Full Stack Developer | React, NEXT & React Native
 ------------------------------------------
 
 Web & Mobile App Developer. Frontend Web and Mobile Developer JavaScript | ReactJs | React Native | Expo | Material UI | Bootstrap5 | HTML5 & CSS3 | PWA | Materialize CSS
 
 * 🌍  I'm based in Karachi, Pakistan
-* 🖥️  See my portfolio at [My Portfolio](https://eight-1-eight.web.app)
+* 🖥️  See my Business Portfolio at [My Portfolio](https://eight-1-eight.vercel.app)
 * ✉️  You can contact me at [adnanahmed818@gmail.com](mailto:adnanahmed818@gmail.com)
-* 🚀  I'm currently working on [Liaquat National Hospital](https://www.lnh.edu.pk)
-* 🧠  I'm learning Nextjs, Tailwind CSS, Functional Programming (React Hooks)
-* 🤝  I'm open to collaborating on React, React Native, Material UI, Firebase, Javascript
+* 🚀  I'm Managing Business on [Eight-1-Eight](https://eight-1-eight.vercel.app)
+* 🧠  I'm learning NextJS, Tailwind CSS, and Functional Programming (React Hooks)
+* 🤝  I'm open to collaborating on React, React Native, Material UI, Firebase, JavaScript, and M.E.R.N.
 
 ### Skills
 
