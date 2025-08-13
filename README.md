@@ -9,7 +9,7 @@ Web & Mobile App Developer. Frontend Web and Mobile Developer JavaScript | React
 * 🌍  I'm based in Karachi, Pakistan
 * 🖥️  See my Business Portfolio at [My Portfolio](https://eight-1-eight.vercel.app)
 * ✉️  You can contact me at [adnanahmed818@gmail.com](mailto:adnanahmed818@gmail.com)
-* 🚀  I'm Managing Business on [Eight-1-Eight](https://eight-1-eight.vercel.app)
+* 🚀  Managing Business [Eight-1-Eight](https://eight-1-eight.vercel.app)
 * 🧠  I'm learning NextJS, Tailwind CSS, and Functional Programming (React Hooks)
 * 🤝  I'm open to collaborating on React, React Native, Material UI, Firebase, JavaScript, and M.E.R.N.
 
